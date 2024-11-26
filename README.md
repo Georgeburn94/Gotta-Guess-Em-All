@@ -16,3 +16,17 @@ Our target audience consists of individuals who are familiar with Pokémon. Peop
 We created wireframes using Balsamiq to plan the layout and functionality of our application, ensuring a clear and user-friendly design.
 
 ##Landing Page
+![wireframe of the landing page](assets/images/Homepage.png)
+Page the user will initially reach
+
+##Instructions Modal
+![wireframe of the instructions modal on the homepage](assets/images/Instructions.png)
+Instructions modal launched on the homepage
+
+##Game Screen
+![layout of the interface when the user is playing the game](assets/images/Game-Guessing.png)
+Game interface design
+
+##Game Success
+![wireframe showing the screen with a completed answer](assets/images/Game-Success.png)
+Completed game - sprite of the guessed Pokemon is shown
