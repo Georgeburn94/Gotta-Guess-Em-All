@@ -37,6 +37,10 @@ We chose assets that were in-keeping with the Pokemon aesthetic.
 ##Fonts
 We chose the 'PocketMonk' and 'Pokemon Classic' fonts for this project. 
 
+##Colour Scheme
+![picture showing swatch of colour scheme. similar to Pokemon colours](assets/images/color_scheme.jpeg)
+A colour scheme similar to the branding of the original Pokemon was used. This was taken from Adobe Colours.
+
 ###Pokemon Classic
 ![preview of the pokemon classic font](assets/images/Pokemon_Classic_preview.png)
 We chose this font as a nod to the original Gameboy games. We think that our target audience will recognise this font, adding nostalgia value.
@@ -47,7 +51,7 @@ We chose this font as a nod to the original Gameboy games. We think that our tar
 Drawing on the design language of Pokemon, we chose this font.
 
 ###Licensing
-Pocketmonk is used under "non-commercial" lisence purposes. See lisence file here.
+Pocketmonk is used under "non-commercial" lisence purposes. See lisence file <a src="assets/images/font_license.pdf">here.<a/>
 Pokemon Classic was used under permission from the author.
 
 ##API
