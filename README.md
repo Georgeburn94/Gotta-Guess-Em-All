@@ -42,8 +42,8 @@ We chose the 'PocketMonk' and 'Pokemon Classic' fonts for this project.
 We chose this font as a nod to the original Gameboy games. We think that our target audience will recognise this font, adding nostalgia value.
 
 ###Pocketmonk
-
 ![preview of the Pocketmonk font - similar to the original Pokemon logo typeface](assets/images/PocketMonk_preview.png)
+
 Drawing on the design language of Pokemon, we chose this font.
 
 ###Licensing
